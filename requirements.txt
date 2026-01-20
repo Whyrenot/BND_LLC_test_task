@@ -3,3 +3,6 @@ torchvision==0.16.0
 
 opencv_python==4.11.0.86
 ultralytics==8.4.5
+
+numpy<2
+lap>=0.5.12
