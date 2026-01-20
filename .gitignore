@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# weights / models
+*.pt
+*.onnx
+
+# OS
+.DS_Store
