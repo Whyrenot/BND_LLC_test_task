@@ -1,6 +1,6 @@
 ## Установка
 
-# Windows
+## Windows
 ```bash
 git clone https://github.com/Whyrenot/BND_LLC_test_task.git
 cd BND_LLC_test_task
@@ -10,7 +10,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 python src/main.py
 ```
-# Linux / MacOS
+## Linux / MacOS
 ```bash
 git clone https://github.com/Whyrenot/BND_LLC_test_task.git
 cd BND_LLC_test_task
@@ -20,4 +20,8 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 python src/main.py
+```
+## Запуск с параметрами
+```bash
+python src/main.py --video-path data\my_video.mp4 --output-path result.mp4
 ```
