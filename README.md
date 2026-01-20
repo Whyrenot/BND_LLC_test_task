@@ -10,7 +10,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 python src/main.py
 ```
-# Linux
+# Linux / MacOS
 ```bash
 git clone https://github.com/Whyrenot/BND_LLC_test_task.git
 cd BND_LLC_test_task
